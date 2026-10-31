@@ -8,3 +8,5 @@
 
 ## About 
 This repository contains my Git and GitHub lab assignments.
+This is the first modification.
+This is the second modification.
