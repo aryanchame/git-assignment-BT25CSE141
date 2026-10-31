@@ -10,3 +10,4 @@
 This repository contains my Git and GitHub lab assignments.
 This is the first modification.
 This is the second modification.
+This line is added for Exercise 12 using Git Stash.
