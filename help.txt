@@ -1,0 +1,14 @@
+MENU SCRIPT HELP
+
+1. Greet User:
+   Enter your name to receive a greeting.
+
+2. Add Two Numbers:
+   Enter two integers to calculate their sum.
+
+3. Check Even or Odd:
+   Enter an integer to check whether it is even or odd.
+
+4. Exit:
+   Select 4 to exit the program.
+   
